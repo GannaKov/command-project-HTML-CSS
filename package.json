@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://VladosSid.github.io/command-project-HTML-CSS",
+  "homepage": "https://GannaKov/command-project-HTML-CSS-",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /command-project-HTML-CSS/"
+    "build": "parcel build src/*.html --public-url /command-project-HTML-CSS-/"
   },
   "repository": {
     "type": "git",
